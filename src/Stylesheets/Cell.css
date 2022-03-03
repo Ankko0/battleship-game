@@ -1,0 +1,56 @@
+.EmptyCell {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    border: 1px solid black;
+    font-size: 30px;
+    line-height: 50px;
+    text-align: center;
+  }
+.CellWithShip {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    border: 1px solid black;
+    background-image: url("https://icon-library.com/images/battleship-icon/battleship-icon-2.jpg");
+    background-size: contain;
+    font-size: 30px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.SelectedToShot {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  border: 1px solid black;
+  background-image: url("https://icon-library.com/images/aim-icon-png/aim-icon-png-25.jpg");
+  background-size: contain;
+  font-size: 30px;
+  line-height: 50px;
+  text-align: center;
+}
+
+.WithDeadShip {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  border: 1px solid black;
+  background-image: url("https://icon-library.com/images/shipwreck-icon/shipwreck-icon-20.jpg");
+  background-size: contain;
+  font-size: 30px;
+  line-height: 50px;
+  text-align: center;
+}
+
+.Miss {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  border: 1px solid black;
+  background-image: url("https://library.kissclipart.com/20180907/ywe/kissclipart-waves-icon-clipart-wind-wave-computer-icons-ecb80981c8c8e18b.png");
+  background-size: contain;
+  font-size: 30px;
+  line-height: 50px;
+  text-align: center;
+}

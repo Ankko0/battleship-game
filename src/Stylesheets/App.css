@@ -1,0 +1,11 @@
+body {
+  background: rgb(137,213,228);
+  background: radial-gradient(circle, rgba(137,213,228,0.2920518549216562) 27%, rgba(155,155,241,0.47692580450148814) 82%);
+}
+.App {
+  text-align: center;
+}
+
+.Row {
+  display: flex;
+}
